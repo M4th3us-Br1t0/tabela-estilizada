@@ -1,0 +1,29 @@
+.tabela-moda{
+    color: #FFFFFF;
+    font-size: large;
+}
+.tabela-casa{
+    color: #FFFFFF;
+    font-size: large;
+}
+
+.cabecalho-moda{
+    background-color: #BB86FC;
+    padding: 9px;
+}
+
+.cabecalho-casa{
+    background-color: #00C4B4;
+    padding: 9px;
+}
+
+.item-moda{
+    padding: 8px;
+    background-color: #424250;
+    
+}
+
+.item-casa{
+    background-color: #424250;
+    padding: 8px;
+}
